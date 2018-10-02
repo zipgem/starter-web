@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Marco Sambo marco.sambo.mail@gmail.com
 
 # THANKS
 
